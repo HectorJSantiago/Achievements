@@ -8,7 +8,7 @@ Portfolio
 
 2. Performed configuration reviews of Windows and Linux systems to ensure adherence to PCI DSS standards and company-specific security baselines.
 
-3. Obtain required materials, information, and documents needed to perform and complete assessments, thus ensuring the company compliance.
+3. Obtained required materials, information, and documents needed to perform and complete assessments, thus ensuring the company compliance.
 
 4. Mapped payment flows and business narratives to identify potential PCI DSS compliance gaps, recommending process improvements to strengthen controls.
 
